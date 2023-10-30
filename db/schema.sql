@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS ormtodos;
+CREATE DATABASE ormtodos;
